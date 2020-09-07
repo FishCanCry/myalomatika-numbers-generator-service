@@ -1,6 +1,6 @@
 # myalomatika-numbers-generator-service
 
-Service is needed to generate array of numbers according to specific logic
+Service generates array of numbers according to specific logic
 
 server.port=7070
 
